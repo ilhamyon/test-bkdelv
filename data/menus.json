@@ -1,0 +1,216 @@
+[
+  {
+    "id": "angry-menu",
+    "displayName": "Angry Menu [Limited Time]",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/16/i7wjzxcsprv8j5kxjetgva_product_list.jpg",
+    "items": [
+      {
+        "id": "6260",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/16/i7wjzxcsprv8j5kxjetgva_product_list.jpg",
+        "name": "King Box ANGRY Whopper® Jr",
+        "price": 55000
+      },
+      {
+        "id": "6294",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/16/ld4qec2ve7hab2pjhdkclf_product_list.jpg",
+        "name": "King Box ANGRY Whopper® Jr Supreme",
+        "price": 73636
+      },
+      {
+        "id": "6261",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/16/nxhwwoei39unk3gxtc3n8i_product_list.jpg",
+        "name": "Paket ANGRY Whopper® Jr",
+        "price": 45000
+      },
+      {
+        "id": "6295",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/16/jkljfgnwndexubb8ctq8ss_product_list.jpg",
+        "name": "ANGRY Whopper® Jr Supreme",
+        "price": 63636
+      }
+    ]
+  },
+  {
+    "id": "bk-app-exclusive",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/6/aurxtfqbxofdifss73cbfn_product_list.jpg",
+    "items": [
+      {
+        "id": "6224",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/6/aurxtfqbxofdifss73cbfn_product_list.jpg",
+        "name": "Mozza BBQ Ayam Nasi King Box",
+        "price": 25000
+      },
+      {
+        "id": "6218",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/6/5xfevr52ta3rhbeg2v7i6a_product_list.jpg",
+        "name": "Mozza Chilli Mayo Ayam Nasi King Box",
+        "price": 25000
+      }
+    ]
+  },
+  {
+    "id": "cheese-burger-favorit",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/26/fndtvqcpaffjdchu5alujb_product_list.jpg",
+    "items": [
+      {
+        "id": "5012",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/26/fndtvqcpaffjdchu5alujb_product_list.jpg",
+        "name": "King Box Cheeseburger Supreme",
+        "price": 57727
+      },
+      {
+        "id": "6205",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/16/kjtdx5pg3k9snyr5j8kjye_product_list.jpg",
+        "name": "King Box BBQ Beef Rasher",
+        "price": 60909
+      }
+    ]
+  },
+  {
+    "id": "cheese-whopper",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/22/kttse4zlcnph5dhtpjvrom_product_list.jpg",
+    "items": [
+      {
+        "id": "5746",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/22/kttse4zlcnph5dhtpjvrom_product_list.jpg",
+        "name": "King Box Cheese Whopper® Medium",
+        "price": 84545
+      },
+      {
+        "id": "5747",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/22/kttse4zlcnph5dhtpjvrom_product_list.jpg",
+        "name": "King Box Cheese Whopper® JR Medium",
+        "price": 62727
+      }
+    ]
+  },
+  {
+    "id": "gold-collection",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/6/4w2x4th4mwv9oehtybhpj6_product_list.jpg",
+    "items": [
+      {
+        "id": "5806",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/6/4w2x4th4mwv9oehtybhpj6_product_list.jpg",
+        "name": "King Box BBQ Steakhouse Beef",
+        "price": 93182
+      },
+      {
+        "id": "5781",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/19/vhregqtx4qltu9xhm6b9ab_product_list.jpg",
+        "name": "BBQ STEAKHOUSE BEEF",
+        "price": 83182
+      }
+    ]
+  },
+  {
+    "id": "kings-chicken",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/15/xwpjmesr8sh4wddlsnlbcl_product_list.jpg",
+    "items": [
+      {
+        "id": "3865",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/15/xwpjmesr8sh4wddlsnlbcl_product_list.jpg",
+        "name": "Paket BESAR 1",
+        "price": 35909
+      },
+      {
+        "id": "4848",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/15/cjs75caadrcnu88pdgqnm2_product_list.jpg",
+        "name": "Paket BESAR 2",
+        "price": 51364
+      }
+    ]
+  },
+  {
+    "id": "kids-meal",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/23/rqm5nhswulzvkmwvgmau5j_product_list.jpg",
+    "items": [
+      {
+        "id": "4546",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/23/rqm5nhswulzvkmwvgmau5j_product_list.jpg",
+        "name": "King JR Cheeseburger",
+        "price": 31818
+      },
+      {
+        "id": "4670",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/12/4xzk2p28cnhxledzdt6mga_product_list.jpg",
+        "name": "King JR Chicken Burger",
+        "price": 31818
+      }
+    ]
+  },
+  {
+    "id": "sides",
+    "displayName": "Sides",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/10/hfndq3fvr3xaze6c3yvdwv_product_list.jpg",
+    "items": [
+      {
+        "id": "3401",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/10/hfndq3fvr3xaze6c3yvdwv_product_list.jpg",
+        "name": "Fusion Kitkat®",
+        "price": 16818
+      },
+      {
+        "id": "2989",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2022/12/15/jembdwrv9vgvxjux6pwxbq_product_list.jpg",
+        "name": "Double Chocolate Pie",
+        "price": 12727
+      }
+    ]
+  },
+  {
+    "id": "beverages",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/22/aiefrefe4noeax8pyxn2wh_product_list.jpg",
+    "items": [
+      {
+        "id": "2786",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/22/aiefrefe4noeax8pyxn2wh_product_list.jpg",
+        "name": "Coke Regular",
+        "price": 9545
+      },
+      {
+        "id": "2631",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/22/aiefrefe4noeax8pyxn2wh_product_list.jpg",
+        "name": "Coke Medium",
+        "price": 16818
+      }
+    ]
+  },
+  {
+    "id": "king-deals",
+    "displayName": "King Deals",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/8/entq4cpsm8hnviesbuku7r_product_list.jpg",
+    "items": [
+      {
+        "id": "3622",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/8/entq4cpsm8hnviesbuku7r_product_list.jpg",
+        "name": "King Deals Cheeseburger Meal",
+        "price": 28636
+      },
+      {
+        "id": "2898",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/8/afgby49uvc7kfcfkyepg9w_product_list.jpg",
+        "name": "King Deals Ayam + Nasi Meal",
+        "price": 28636
+      }
+    ]
+  },
+  {
+    "id": "kupon-februari",
+    "displayName": "Kupon Februari",
+    "thumbnailUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/31/pwsb4tptx6aqf4fhpnypp4_product_list.jpg",
+    "items": [
+      {
+        "id": "3098",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/31/pwsb4tptx6aqf4fhpnypp4_product_list.jpg",
+        "name": "K01A GKL 0223 [ Ayam + Nasi ]",
+        "price": 15000
+      },
+      {
+        "id": "3202",
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/1/31/knkvgvrdq7zs23rb7cg8l9_product_list.jpg",
+        "name": "K01B GKL 0223 [ Ayam + Nasi + Drink ]",
+        "price": 28636
+      }
+    ]
+  }
+]
